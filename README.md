@@ -1,7 +1,7 @@
 <h1 align="center">Hi, It's Zyad</h1>
 <h3 align="center">New grad Java Developer from the University of Arizona</h3>
 
-- **r**
+- **Hi, I am a new computer science graduate seeking opportunities in Java development; check out my website and feel free to ping me about any of my projects :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
