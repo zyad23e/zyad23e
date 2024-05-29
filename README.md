@@ -1,6 +1,8 @@
 <h1 align="center">Hi, It's Zyad</h1>
 <h3 align="center">New grad Java Developer from the University of Arizona</h3>
 
+- **r**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zyadelma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zyadelma" height="30" width="40" /></a>
